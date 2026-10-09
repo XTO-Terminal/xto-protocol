@@ -38,6 +38,23 @@ For integration details, see:
 
 The integration guide covers token discovery, bonding curve trading, graduation detection, and Uniswap V4 integration.
 
+## Open Integration for All Developers
+
+**XTO Protocol is open to all communities, developers, and third-party trading bot platforms.**
+
+The official XTO smart contract source code, ABIs, mainnet contract addresses, and integration documentation are publicly available to support direct integration with XTO markets on Robinhood Chain.
+
+Developers can integrate:
+
+- **Token Discovery:** Monitor new token launches through XTO Factory V4.
+- **Bonding Curve Trading:** Execute BUY and SELL transactions before graduation.
+- **Graduation Detection:** Track market transitions to Uniswap V4.
+- **Post-Graduation Trading:** Execute transactions through XTO SwapRouter.
+
+XTO welcomes integrations from Sigma, BaseBot, Maestro, independent trading bot developers, and the wider Web3 community.
+
+**Open Protocol. Open Integration. Open to Everyone.**
+
 ## Important
 
 Integration implementations must be validated against the deployed contract ABIs and on-chain behavior before production use.
