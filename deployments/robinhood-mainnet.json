@@ -1,0 +1,12 @@
+{
+  "network": "Robinhood Chain Mainnet",
+  "chainId": 4663,
+  "contracts": {
+    "XTOFactoryV4": "0x8fA9EDF9316F6DF55fd74F3529899C7De80D51fC",
+    "XTOSwapRouter": "0xF9eDd945BC45B39CADe6Dfd704653dfe369BCB74",
+    "XTOFeeHook": "0x26B9A961FFF3AECf951eFb6FB4aD21cA50BE60Cc",
+    "XTOFeeAccounting": "0x6AC0115dF2485a00F34EB88625A5229720983711",
+    "XTOGraduationExecutor": "0xf884d689a1978cA0Fc57F88f79B670C230f3ec54"
+  },
+  "uniswapV4PoolManager": "0x8366a39CC670B4001A1121B8F6A443A643e40951"
+}
